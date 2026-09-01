@@ -1,5 +1,3 @@
-# Learn more https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files
-
 # dependencies
 node_modules/
 
@@ -39,3 +37,20 @@ yarn-error.*
 # generated native folders
 /ios
 /android
+
+# build outputs
+*.apk
+*.aab
+
+# eas build
+.eas/
+
+# documentation (generated)
+DOCUMENTATION.html
+
+# logs
+*.log
+
+# IDE
+.vscode/
+.idea/
