@@ -85,7 +85,7 @@ ImageGallery is a beautifully designed mobile application built with React Nativ
 
 ```bash
 # Clone the repository
-git clone https://github.com/omi1/ImageGallery.git
+git clone https://github.com/OnkarKhairnar/ImageGallery.git
 
 # Navigate to project directory
 cd ImageGallery
