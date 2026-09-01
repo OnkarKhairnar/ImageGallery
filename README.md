@@ -148,7 +148,7 @@ ImageGallery/
 
 <div align="center">
 
-<img width="360" height="800" alt="6104971922081780859" src="https://github.com/user-attachments/assets/1b4994f7-4193-4153-bda4-00f158535db4" />
+<img width="359" height="761" alt="6104971922081780859" src="https://github.com/user-attachments/assets/3e4d2e75-d3bc-4c17-be0c-017831c54df9" />
 <img width="387" height="800" alt="6104971922081780858" src="https://github.com/user-attachments/assets/ecf588a7-eb7a-4c7b-9bf1-0914027ab1ff" />
 <img width="611" height="1280" alt="6104971922081780857" src="https://github.com/user-attachments/assets/aad8a32f-a47a-4990-8733-7c7e950f5af0" />
 <img width="603" height="1280" alt="6104971922081780856" src="https://github.com/user-attachments/assets/ff7017cc-7396-4277-acdc-3d1c983a23ca" />
