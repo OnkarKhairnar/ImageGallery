@@ -231,4 +231,4 @@ Contributions are welcome! Feel free to open issues or submit pull requests.
 
 **⭐ Star this repo if you found it helpful!**
 
-</div>
+</div> this is my redmi file arrange the screenshots properly 
