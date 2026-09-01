@@ -228,14 +228,9 @@ Contributions are welcome! Feel free to open issues or submit pull requests.
 
 ---
 
-## 📧 Contact
-
-**omi1** - [GitHub](https://github.com/omi1)
-
----
 
 <div align="center">
 
 **⭐ Star this repo if you found it helpful!**
 
-</div> this is my redmi file arrange the screenshots properly 
+</div>
