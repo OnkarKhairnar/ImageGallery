@@ -1,0 +1,68 @@
+# .gitignore for ImageGallery (Expo / React Native)
+
+# Dependencies
+node_modules/
+.pnp/
+.pnp.js
+
+# Build outputs
+dist/
+build/
+android/app/build/
+ios/build/
+*.apk
+*.aab
+*.ipa
+
+# Expo
+.expo/
+.expo-shared/
+.web/
+.expo/*
+
+# iOS
+ios/Pods/
+.xcodeproj/
+xcuserdata/
+*.xcuserstate
+project.xcworkspace/
+.DS_Store
+
+# Android
+.android/
+local.properties
+*.iml
+.gradle/
+captures/
+.expo/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# IDE / editors
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# TypeScript
+*.tsbuildinfo
+
+# Misc
+coverage/
+*.tgz
