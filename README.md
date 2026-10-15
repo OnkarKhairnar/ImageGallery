@@ -139,6 +139,10 @@ Contributions are welcome! Please open an issue or submit a pull request.
 
 This project is private and intended for personal/educational use.
 
+## Enhancements
+
+Later on I am migrating from React Native StyleSheet to NativeWind.
+
 ---
 
 Made with ❤️ using Expo & React Native
